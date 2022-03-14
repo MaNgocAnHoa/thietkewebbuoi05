@@ -1,0 +1,16 @@
+
+@media (max-width:960px){
+    *{
+        color:coral;
+    }
+}
+@media (max-width:760px){
+    *{
+        color:blue;
+    }
+}
+@media(max-width:640px){
+    *{
+        color:red;
+    }
+}

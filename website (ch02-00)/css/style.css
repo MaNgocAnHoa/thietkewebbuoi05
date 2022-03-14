@@ -119,11 +119,6 @@ blockquote cite {
     display:block;
     /* clear: both; */
 }
-
-#content p {
-    /* width: 50%; */
-}
-
 .navigation ul {
     display: flex;
     justify-content: space-around;
